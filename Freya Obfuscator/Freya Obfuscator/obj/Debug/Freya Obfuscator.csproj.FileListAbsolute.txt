@@ -1,0 +1,11 @@
+C:\Users\ygzat\OneDrive\Masaüstü\Freya Obfuscator\Freya Obfuscator\bin\Debug\Freya Obfuscator.exe.config
+C:\Users\ygzat\OneDrive\Masaüstü\Freya Obfuscator\Freya Obfuscator\bin\Debug\Freya Obfuscator.exe
+C:\Users\ygzat\OneDrive\Masaüstü\Freya Obfuscator\Freya Obfuscator\bin\Debug\Freya Obfuscator.pdb
+C:\Users\ygzat\OneDrive\Masaüstü\Freya Obfuscator\Freya Obfuscator\bin\Debug\dnlib.dll
+C:\Users\ygzat\OneDrive\Masaüstü\Freya Obfuscator\Freya Obfuscator\bin\Debug\dnlib.xml
+C:\Users\ygzat\OneDrive\Masaüstü\Freya Obfuscator\Freya Obfuscator\obj\Debug\Freya Obfuscator.csproj.AssemblyReference.cache
+C:\Users\ygzat\OneDrive\Masaüstü\Freya Obfuscator\Freya Obfuscator\obj\Debug\Freya Obfuscator.csproj.SuggestedBindingRedirects.cache
+C:\Users\ygzat\OneDrive\Masaüstü\Freya Obfuscator\Freya Obfuscator\obj\Debug\Freya Obfuscator.csproj.CoreCompileInputs.cache
+C:\Users\ygzat\OneDrive\Masaüstü\Freya Obfuscator\Freya Obfuscator\obj\Debug\Freya Obfuscator.csproj.CopyComplete
+C:\Users\ygzat\OneDrive\Masaüstü\Freya Obfuscator\Freya Obfuscator\obj\Debug\Freya Obfuscator.exe
+C:\Users\ygzat\OneDrive\Masaüstü\Freya Obfuscator\Freya Obfuscator\obj\Debug\Freya Obfuscator.pdb

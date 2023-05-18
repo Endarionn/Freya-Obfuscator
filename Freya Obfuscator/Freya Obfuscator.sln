@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Freya Obfuscator", "Freya Obfuscator\Freya Obfuscator.csproj", "{92713EC3-0A0D-4594-9BC0-A540184C878D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92713EC3-0A0D-4594-9BC0-A540184C878D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92713EC3-0A0D-4594-9BC0-A540184C878D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92713EC3-0A0D-4594-9BC0-A540184C878D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92713EC3-0A0D-4594-9BC0-A540184C878D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03F8BEFE-C6C1-452E-9C5A-8407B97BA6E9}
+	EndGlobalSection
+EndGlobal
